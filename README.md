@@ -11,3 +11,7 @@ Example: game-installations/squarethon/
 2. Go in the folder of your operating system.
 
 Example: game-installations/squarethon/windows/
+
+3. Go in the version you want to install.
+
+Example: game-installations/squarethon/windows/Release Win 1.0
